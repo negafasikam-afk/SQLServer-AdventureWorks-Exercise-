@@ -2,7 +2,7 @@
 
 This project includes SQL scripts for my Business Intelligence coursework. 
 
-- Designed schemas and tables for AdventureWorks dataset  
+- sorted and filtered datasets 
 - Created stored procedures and views for data analysis  
-- Practiced joins, aggregations, and filtering  
-- Ensured data integrity and accuracy
+- Practiced joins and aggregations 
+- 
